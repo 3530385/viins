@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.venv
+mav0/
+.env
+MH_01_easy.zip
+data_processing.sync.ipynb
